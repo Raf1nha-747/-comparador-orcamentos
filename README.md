@@ -16,3 +16,6 @@ Coloque os dados em `orcamentos.csv` e rode `python main.py`.
 
 ## Contexto
 Projeto inspirado na minha experiência com compras e orçamentos na área administrativa.
+
+## Resultado
+![Gráfico de preços por fornecedor](grafico.png)
